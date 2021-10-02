@@ -5,7 +5,3 @@ public abstract class Shape {
     int y;
 }
 
-public class rectangle extends Shape {
-    
-    
-}
